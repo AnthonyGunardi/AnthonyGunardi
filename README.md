@@ -2,6 +2,10 @@
 
 Welcome to my GitHub profile, where you can find all of my projects here.
 
+## Fun Fact
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=AnthonyGunardi.AnthonyGunardi)
+
 <!--
 **AnthonyGunardi/AnthonyGunardi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
